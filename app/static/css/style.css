@@ -1,0 +1,19 @@
+#news{
+    text-align:center;
+}
+
+#facts{
+    font-size: 1vw;
+    padding-right:10px;
+}
+#facts > table > thead > tr:nth-child(1){
+    text-align: center;
+}
+
+#feature{
+    text-align:center;
+}
+
+#hemispheres img{
+    height:300px;
+}
